@@ -1,3 +1,5 @@
+icnlude config.mk
+
 CC=cc
 
 .PHONY: all install clean remove
